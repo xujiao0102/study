@@ -1,2 +1,2 @@
 # study
-study and code
+学习资料文件
